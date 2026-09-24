@@ -55,11 +55,5 @@ navLinks.forEach(link => {
   });
 });
 
-// ===== THEME TOGGLE (simple demo) =====
-document.querySelector('.theme-btn').addEventListener('click', () => {
-  document.body.classList.toggle('light-theme');
-  alert('Theme toggle (demo) - bisa dikembangkan lebih lanjut.');
-});
-
 // ===== BACKGROUND STAYS FIXED =====
 // Background is intentionally fixed and should not move with scroll.
