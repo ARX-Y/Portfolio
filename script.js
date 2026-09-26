@@ -55,5 +55,3 @@ navLinks.forEach(link => {
   });
 });
 
-// ===== BACKGROUND STAYS FIXED =====
-// Background is intentionally fixed and should not move with scroll.
